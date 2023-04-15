@@ -7,22 +7,33 @@
 
 ## Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Garv-M&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Garv-M&layout=compact)](https://github.com/Garv-M/github-readme-stats)
 
 
 
 ## Languages and Tools
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="php" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="php" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="php" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="php" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="php" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="php" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="php" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="php" width="45" height="45"/>
 </p>
 
 ## Contact
 <a href="https://www.linkedin.com/in/garv-mittra0202/"> 
-  <img src = "https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff" height="24px"><img/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="php" width="45" height="45"/>
 </a>
-
+<a href="https://twitter.com/garv_mittra"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="php" width="45" height="45"/>
+</a>
+<a href="https://twitter.com/garv_mittra"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="php" width="45" height="45"/>
+</a>
 
 <!--
 **Garv-M/Garv-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
