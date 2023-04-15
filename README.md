@@ -2,25 +2,24 @@
 
 - 😄 Pronouns: He/Him
 - 🎓 I am a B.Tech - Computer Science student at VIT, Vellore
-- 👯 I’m looking to collaborate on Web Dev 
+- 👯 I’m looking to collaborate in various repositories 
 
 
 ## Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Garv-M&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Garv-M&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Garv-M&layout=compact)](https://github.com/Garv-M/github-readme-stats)
 
 
 
 ## Languages and Tools
-<img src = "https://img.shields.io/badge/-HTML 5-e34f26?logo=html5&logoColor=fff" height="26px" href="https://github.com/Garv-M/"> &nbsp; <img/>
-<img src = "https://img.shields.io/badge/-CSS 3-1572B6?logo=css3&logoColor=fff" height="26px"> &nbsp; <img/>
-<img src = "https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000" height="26px"> &nbsp; <img/>
-<img src = "https://img.shields.io/badge/-React JS-61DAFB?logo=react&logoColor=fff" height="26px"> &nbsp; <img/>
-<img src = "https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=fff" height="26px"><img/> <br>
-<img src = "https://img.shields.io/badge/-Flask-FFCA28?logo=flask&logoColor=000" height="28px"><img/>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
 
 ## Contact
-<a href="https://www.linkedin.com/in/maitrey-bhute-a82173208"> 
+<a href="https://www.linkedin.com/in/garv-mittra0202/"> 
   <img src = "https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff" height="24px"><img/>
 </a>
 
