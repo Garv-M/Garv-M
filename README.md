@@ -14,7 +14,7 @@
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="php" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="php" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="php" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="php" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="php" width="45" height="45"/>
@@ -27,9 +27,6 @@
 ## Contact
 <a href="https://www.linkedin.com/in/garv-mittra0202/"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="php" width="45" height="45"/>
-</a>
-<a href="https://twitter.com/garv_mittra"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="php" width="45" height="45"/>
 </a>
 <a href="https://twitter.com/garv_mittra"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="php" width="45" height="45"/>
